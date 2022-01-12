@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = zafroollah@gmail.com
+	name = Carrimbaccus Zafroollah
